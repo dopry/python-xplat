@@ -1,0 +1,7 @@
+build
+dist
+Include
+Lib
+Scripts
+xplat.egg-info
+*.pyc
